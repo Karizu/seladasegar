@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4D8ED2</color>
+    <color name="colorPrimaryDark">#0e57a2</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="primaryDarkBlue">#242F4E</color>
+    <color name="primaryAccentBlue">#4D8ED2</color>
+
+    <color name="clear">#00FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="Black">#000000</color>
+    <color name="grey_background">#F0ECEE</color>
+    <color name="white_ocean">#FAFBFC</color>
+    <color name="light_gray">#F3F3F3</color>
+    <color name="ligh_blue">#F0F5F9</color>
+    <color name="pending">#0080BB</color>
+
+    <color name="azure">#0083F1</color>
+    <color name="starDust_opacity_40">#599D9E9F</color>
+    <color name="starDust_opacity_80">#CC9D9E9F</color>
+    <color name="starDust_opacity_60">#999D9E9F</color>
+    <color name="starDust_opacity_90">#E69D9E9F</color>
+    <color name="blue_agent">#005C98</color>
+
+    <color name="red_alert">#F44336</color>
+
+    <color name="gray_text">#AAA8A8</color>
+    <color name="charcoal">#3F4041</color>
+
+    <color name="username0">#e21400</color>
+    <color name="username1">#91580f</color>
+    <color name="username2">#f8a700</color>
+    <color name="username3">#f78b00</color>
+    <color name="username4">#58dc00</color>
+    <color name="username5">#287b00</color>
+    <color name="username6">#a8f07a</color>
+    <color name="username7">#4ae8c4</color>
+    <color name="username8">#3b88eb</color>
+    <color name="username9">#3824aa</color>
+    <color name="username10">#a700ff</color>
+    <color name="username11">#d300e7</color>
+
+    <color name="silver_light">#fafbfc</color> // Old : #f4f4f4
+    <color name="curiousBlue">#368CCF</color>
+    <color name="green_ligth">#00b200</color>
+    <color name="starDust">#9D9E9F</color>
+    <color name="denim">#1C67BD</color>
+    <color name="doveGray">#707172</color>
+    <color name="color_silver">#bdc3c7</color>
+
+
+    <color name="very_light_pink">#FFFAF3</color>
+    <color name="appricot">#FFB448</color>
+    <color name="dusty_orange">#FC8C1D</color>
+    <color name="orangish">#FF8834</color>
+    <color name="mireta_blue">#2E41D8</color>
+    <color name="dark_sky_blue">#42ADFC</color>
+    <color name="nice_blue">#0A87B9</color>
+    <color name="mireta_red">#F93E27</color>
+    <color name="almost_black">#070707</color>
+    <color name="black_transparent">#40000000</color>
+
+    <!--list color-->
+    <color name="White">#FFFFFF</color>
+    <color name="Orange">#FFA500</color>
+    <color name="DarkOrange">#FF8C00</color>
+    <color name="Red">#FF0000</color>
+    <color name="AntiqueWhite">#FAEBD7</color>
+    <color name="Gray">#808080</color>
+    <color name="Green">#008000</color>
+    <color name="NormalColorText">#363636</color>
+    <color name="OrangeText">#FC7F3C</color>
+    <color name="NormalGreyText">#8E8E93</color>
+    <color name="red_text">#EE343B</color>
+</resources>
